@@ -32,3 +32,6 @@ Here are some additional things to keep in mind:
 The dashboard does not show any information about the user's debts or liabilities.
 The dashboard does not show any information about the user's investment portfolio.
 The dashboard only shows data up to June 20, 2024.
+
+# Power BI Visualization
+![Dashboard 1](https://github.com/ashrafkhan778/finance-dashboard/blob/main/Financial%20Dashboard.png)
